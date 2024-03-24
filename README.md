@@ -2,9 +2,15 @@
 
 # Social
 
-[![GitHub](https://img.shields.io/github/followers/ttldtor?style=social)](https://github.com/ttldtor)
+[![GitHub](https://img.shields.io/github/followers/ttldtor?style=flat)](https://github.com/ttldtor) 
+[![GitLab](https://img.shields.io/badge/GitLab-ttldtor-E24329)](https://gitlab.com/ttldtor) 
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-ttldtor-blue)](https://bitbucket.org/ttldtor)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttldtor&hide=html&layout=compact)](https://github.com/ttldtor)
+[![BlueSky](https://img.shields.io/badge/BlueSky-ttldtor-00F5FF)](https://bsky.app/profile/ttldtor.bsky.social) 
+[![Mastodon](https://img.shields.io/badge/Mastodon-ttldtor-563ACC)](https://mastodon.social/@ttldtor) 
+
+![ttldtor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttldtor\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttldtor&langs_count=10)](https://github.com/ttldtor)
 
 <!--
 **ttldtor/ttldtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
