@@ -8,3 +8,5 @@
 
 [![BlueSky](https://img.shields.io/badge/BlueSky-ttldtor-00F5FF)](https://bsky.app/profile/ttldtor.bsky.social) 
 [![Mastodon](https://img.shields.io/badge/Mastodon-ttldtor-563ACC)](https://mastodon.social/@ttldtor) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttldtor&langs_count=10)](https://github.com/ttldtor)
